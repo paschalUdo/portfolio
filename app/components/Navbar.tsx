@@ -8,14 +8,14 @@ const Navbar = () => {
     const links = [
         { id: 1, link: 'home', href: '#home' },
         { id: 2, link: 'about', href: '#about' },
-        { id: 3, link: 'technologies', href: '#technologies' },
+        // { id: 3, link: 'technologies', href: '#technologies' },
         { id: 4, link: 'experience', href: '#experience' },
         { id: 5, link: 'contact', href: '#contact' },
     ]
     return (
         <nav className="flex justify-between items-center w-full h-20 text-white px-4 bg-gray-900">
             <div>
-                <h1 className="text-3xl font-signature ml-2">GΞORGΞ OKAFOR</h1>
+                <h1 className="text-3xl font-signature ml-2">ENECHUKWU PASCHAL</h1>
             </div>
 
             <ul className="hidden md:flex">

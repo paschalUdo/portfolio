@@ -35,8 +35,8 @@ const Hero = () => {
 
         <div>
           <img
-            src="https://res.cloudinary.com/ds1ll9kkv/image/upload/v1727345527/IMG_0075_nhto7v.jpg"
-            alt="george"
+            src="https://res.cloudinary.com/ds1ll9kkv/image/upload/v1693327482/8a848081-1931-448d-b41f-88fe8cd603d4_gp99p8.jpg"
+            alt="paschal"
             className="rounded-2xl mx-auto w2/3 md:w-96"
           />
         </div>

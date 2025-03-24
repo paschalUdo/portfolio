@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "George Okafor",
+  title: "Enechukwu Paschal",
   description: "My Portfolio Website",
 };
 
